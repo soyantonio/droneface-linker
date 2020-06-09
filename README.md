@@ -24,3 +24,7 @@ To resolve to different domain/subdomain. Add the following code to your `fireba
 The above code will resolve to `https://customtoyourproject.web.app/`.  The `**` of the source means it will resolve all after the previous address, to the **function** `linker`
 
 It can be changed to `otherpath/**`, in consecuence it will response for `https://customtoyourproject.web.app/otherpath/**`
+
+## Demo
+
+https://vlinker2020.web.app/
