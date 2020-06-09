@@ -2,6 +2,8 @@
 
 It is required to have firebase-tools installed and with the correct setup
 
+![droneface](doc/droneface.jpeg)
+
 ## Firebase
 
 To resolve to different domain/subdomain. Add the following code to your `firebase.json`
